@@ -33,8 +33,7 @@ def crawler(pages):
                     if base_url[0:4] == http_code:
                         indexed_url.append(base_url)
     indexed_url = [iterator for iterator in indexed_url if 'chechnya' in iterator
-                   or 'president' in iterator or 'russia' in iterator or '' in iterator
-                   or 'politic' in iterator or 'dagestan' in iterator]
+                   or 'president' in iterator or 'russia' in iterator or 'politic' in iterator or 'dagestan' in iterator]
     return indexed_url
 
 
