@@ -2,7 +2,7 @@
 
 repository for OIP course(paired with Sergey Ryzhakov)
 
-* [Task one](#Task one)
+* [Task one](#task-one)
 
 
 ## Task one
