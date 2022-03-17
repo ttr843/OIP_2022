@@ -1,92 +1,100 @@
-url: https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia,number of document: 1
-url: https://eo.wikipedia.org/wiki/Ramzan_Kadirov,number of document: 2
-url: https://en.wikipedia.org/wiki/Kirov_Oblast,number of document: 3
-url: https://www.huffpost.com/entry/chechen-president-we-dont-have-gays_n_59690d08e4b0d6341fe8ad95,number of document: 4
-url: https://en.wikipedia.org/wiki/Viktor_Tomenko,number of document: 5
-url: https://en.wikipedia.org/wiki/Category:Heroes_of_the_Russian_Federation,number of document: 6
-url: https://en.wikipedia.org/wiki/The_New_York_Times,number of document: 7
-url: https://en.wikipedia.org/wiki/Guerrilla_phase_of_the_Second_Chechen_War,number of document: 8
-url: https://en.wikipedia.org/wiki/Vanessa-Mae,number of document: 9
-url: http://www.itnsource.com/shotlist//RTV/2011/04/06/RTV1017511/?v=2,number of document: 10
-url: https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi,number of document: 11
-url: https://web.archive.org/web/20100318050843/http://www.sptimes.ru/index.php?action_id=2&story_id=28409,number of document: 12
-url: https://en.wikipedia.org/wiki/Stavropol_Krai,number of document: 13
-url: https://en.wikipedia.org/wiki/Crimes_against_humanity,number of document: 14
-url: https://en.wikipedia.org/wiki/2004_Nazran_raid,number of document: 15
-url: https://en.wikipedia.org/wiki/Spetsnaz,number of document: 16
-url: https://en.wikipedia.org/wiki/Jamestown_Foundation,number of document: 17
-url: https://el.wikipedia.org/wiki/%CE%A1%CE%B1%CE%BC%CE%B6%CE%AC%CE%BD_%CE%9A%CE%B1%CE%BD%CF%84%CE%AF%CF%81%CE%BF%CF%86,number of document: 18
-url: https://www.theguardian.com/world/2015/may/26/chechen-leader-hollywood-ramzan-kadyrov,number of document: 19
-url: https://web.archive.org/web/20080506061807/http://www.jamestown.org/publications_details.php?volume_id=409&issue_id=3226&article_id=2369233,number of document: 20
-url: https://en.wikipedia.org/wiki/Dmitry_Medvedev,number of document: 21
-url: https://www.nytimes.com/2017/08/17/opinion/chechnya-ramzan-kadyrov-russia.html,number of document: 22
-url: https://en.wikipedia.org/wiki/Central_Intelligence_Agency,number of document: 23
-url: https://en.wikipedia.org/wiki/Template_talk:Current_heads_of_federal_subjects_of_Russia,number of document: 24
-url: https://en.wikipedia.org/wiki/Hostage,number of document: 25
-url: https://be-tarask.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B0%D0%BD_%D0%9A%D0%B0%D0%B4%D1%8B%D1%80%D0%B0%D1%9E,number of document: 26
-url: https://en.wikipedia.org/wiki/Bashkortostan,number of document: 27
-url: http://tass.com/society/1001474,number of document: 28
-url: https://en.wikipedia.org/w/index.php?title=Ramzan_Kadyrov&oldid=1074452504,number of document: 29
-url: https://en.wikipedia.org/wiki/Nasheed,number of document: 30
-url: https://en.wikipedia.org/wiki/Moscow_Cathedral_Mosque,number of document: 32
-url: https://en.wikipedia.org/wiki/Ali_Taziev,number of document: 33
-url: https://en.wikipedia.org/wiki/Aleksandr_Uss,number of document: 34
-url: https://en.wikipedia.org/wiki/Category:Recipients_of_the_Order_%22For_Merit_to_the_Fatherland%22,_4th_class,number of document: 35
-url: https://en.wikipedia.org/w/index.php?title=Ramzan_Kadyrov&action=info,number of document: 36
-url: https://en.wikipedia.org/wiki/Category:FC_Akhmat_Grozny,number of document: 37
-url: https://www.csmonitor.com/World/Europe/2015/0423/Pro-Russia-Chechen-leader-threatens-to-kill-Russian-cops-on-his-turf,number of document: 38
-url: https://wayback.archive-it.org/all/20171011093009/https://apa.az/dunya-xeberleri/amerika-haqqinda-xeberler/kerzainin-sozleri-amerikani-qorxutmur-dovlet-departamenti.html,number of document: 39
-url: https://en.wikipedia.org/wiki/Killed_in_action,number of document: 40
-url: https://en.wikipedia.org/wiki/Moscow_Helsinki_Group,number of document: 41
-url: https://en.wikipedia.org/wiki/Ombudswoman,number of document: 42
-url: https://en.wikipedia.org/wiki/File:AlkhanovPutinKadyrov.JPG,number of document: 44
-url: https://en.wikipedia.org/wiki/Habib_Ali_al-Jifri,number of document: 45
-url: https://en.wikipedia.org/wiki/Shatoy_ambush,number of document: 46
-url: https://av.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B0%D0%BD_%D0%9A%D1%8A%D0%B0%D0%B4%D0%B8%D1%80%D0%BE%D0%B2,number of document: 47
-url: https://web.archive.org/web/20120401192956/http://english.ruvr.ru/2010/02/17/4502831.html,number of document: 49
-url: https://id.wikipedia.org/wiki/Ramzan_Kadyrov,number of document: 50
-url: http://www.ibtimes.co.uk/war-isis-chechnya-leader-ramzan-kadyrov-claims-his-special-forces-are-ground-syria-1542593,number of document: 51
-url: https://es.wikipedia.org/wiki/Ramz%C3%A1n_Kad%C3%BDrov,number of document: 52
-url: https://www.worldcat.org/identities/lccn-no2009082472/,number of document: 53
-url: https://en.wikipedia.org/wiki/Marianna_Maksimovskaya,number of document: 54
-url: https://en.wikipedia.org/wiki/Aslan_Byutukayev,number of document: 57
-url: https://en.wikipedia.org/wiki/Candidate_of_Sciences,number of document: 58
-url: https://en.wikipedia.org/wiki/Irkutsk_Oblast,number of document: 59
-url: https://en.wikipedia.org/wiki/Alexey_Dyumin,number of document: 60
-url: https://www.telegraph.co.uk/news/2016/10/06/ramzan-kadyrov-accused-of-child-cruelty-after-entering-pre-teen/,number of document: 61
-url: https://en.wikipedia.org/wiki/Imam,number of document: 62
-url: https://en.wikipedia.org/wiki/Ruslan_Gelayev,number of document: 63
-url: https://en.wikipedia.org/wiki/Special:MyContributions,number of document: 64
-url: https://en.wikipedia.org/wiki/Strasbourg,number of document: 65
-url: https://en.wikipedia.org/wiki/Aslambek_Vadalov,number of document: 67
-url: https://en.wikipedia.org/wiki/Bob_Brown,number of document: 68
-url: https://en.wikipedia.org/wiki/Austria,number of document: 69
-url: https://en.wikipedia.org/wiki/Vilayat_Galgaycho,number of document: 70
-url: https://en.wikipedia.org/wiki/2004_Russian_aircraft_bombings,number of document: 71
-url: https://tg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%BD_%D2%9A%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2,number of document: 72
-url: https://en.wikipedia.org/wiki/Ivanovo_Oblast,number of document: 73
-url: https://en.wikipedia.org/wiki/Abdul-Halim_Sadulayev,number of document: 74
-url: https://www.bbc.com/news/world-europe-12679028,number of document: 75
-url: https://en.wikipedia.org/wiki/Category:Articles_with_PLWABN_identifiers,number of document: 76
-url: https://www.themoscowtimes.com/2015/01/12/putins-backing-allows-kadyrov-free-reign-for-open-threats-analysts-say-a42790,number of document: 77
-url: https://en.wikipedia.org/wiki/Category:Russian_football_chairmen_and_investors,number of document: 78
-url: https://be.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B0%D0%BD_%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%B0%D0%B2%D1%96%D1%87_%D0%9A%D0%B0%D0%B4%D1%8B%D1%80%D0%B0%D1%9E,number of document: 79
-url: https://en.wikipedia.org/wiki/Kamchatka_Krai,number of document: 80
-url: https://en.wikipedia.org/wiki/Kalmykia,number of document: 81
-url: https://en.wikipedia.org/wiki/Autonomous_okrugs_of_Russia,number of document: 82
-url: https://en.wikipedia.org/wiki/Pskov_Oblast,number of document: 83
-url: https://en.wikipedia.org/wiki/Artur_Parfenchikov,number of document: 84
-url: https://en.wikipedia.org/wiki/Wikipedia:Contact_us,number of document: 85
-url: https://ar.wikipedia.org/wiki/%D8%B1%D9%85%D8%B6%D8%A7%D9%86_%D9%82%D8%AF%D9%8A%D8%B1%D9%88%D9%81,number of document: 86
-url: https://cy.wikipedia.org/wiki/Ramzan_Kadyrov,number of document: 89
-url: https://en.wikipedia.org/wiki/RIA_Novosti,number of document: 90
-url: https://en.wikipedia.org/wiki/Classified_information,number of document: 91
-url: https://www.nytimes.com/2015/05/21/world/europe/chechen-leader-scolds-whatsapp-users-for-spreading-rumors-about-officials-wedding.html?rref=collection%2Ftimestopic%2FKadyrov%2C%20Ramzan%20A.&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=9&pgtype=collection,number of document: 92
-url: https://www.theguardian.com/world/2014/aug/19/chechen-leader-wedding-phone-ramzan-kadyrov-instagram,number of document: 93
-url: https://en.wikipedia.org/wiki/The_New_Yorker,number of document: 94
-url: https://en.wikipedia.org/wiki/Mohammed_bin_Zayed_Al_Nahyan,number of document: 95
-url: https://www.1tv.ru/news/2006/03/04/222789-ramzan_kadyrov_naznachen_premierom_chechenskoy_respubliki,number of document: 96
-url: https://en.wikipedia.org/wiki/BBC_Russian_Service,number of document: 97
-url: https://en.wikipedia.org/wiki/Oleg_Petrovich_Orlov,number of document: 98
-url: https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic,number of document: 99
-url: https://en.wikipedia.org/wiki/Assassination_of_Boris_Nemtsov,number of document: 100
+1)http://en.rian.ru/russia/20091023/156570480.html
+2)https://www.huffingtonpost.com/us/entry/kadyrov-chechen-president-boston-bombing_n_3116698.html
+3)https://www.bbc.co.uk/czech/worldnews/story/2005/09/050916_chechnya_tyson_0730.shtml
+4)https://www.rferl.org/a/facebook-instagram-kadyrov-chechnya-blocked-us-sanctions/28944406.html
+5)https://web.archive.org/web/20200709184051/https://www.nytimes.com/2020/07/09/world/europe/chechnya-russian-murder-vienna.html
+6)https://www.telegraph.co.uk/news/worldnews/europe/russia/8809581/Chechen-warlord-Ramzan-Kadyrov-enjoys-a-quiet-multi-million-pound-birthday.html
+7)http://www.ibtimes.co.uk/war-isis-chechnya-leader-ramzan-kadyrov-claims-his-special-forces-are-ground-syria-1542593
+8)https://web.archive.org/web/20161129155918/http://english.aawsat.com/2016/11/article55362915/saudi-deputy-crown-prince-receives-president-chechnya
+9)https://www.smh.com.au/world/europe/chechnya-gambles-on-there-being-no-business-like-snow-business-20180201-p4yz7v.html
+10)https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/news/2016/05/17/police-surround-entire-village-in-chechnya-in-hunt-for-man-who-d/
+11)http://chechnya.gov.ru/page.php?r=2
+12)https://web.archive.org/web/20080506064245/http://news.scotsman.com/chechnya/Warlord-named-Chechen-president.3350818.jp
+13)https://www.independent.co.uk/news/world/europe/chechnya-gay-purge-maxim-lapunov-press-conference-homophobic-anti-gay-torture-beatings-ramzan-a8003051.html
+14)https://www.theguardian.com/world/2017/apr/02/chechen-police-rounded-up-100-gay-men-report-russian-newspaper-chechnya
+15)https://www.gq.com/story/ramzan-kadyrov-leader-chechnya-boots
+16)https://www.theguardian.com/world/2015/oct/02/putin-should-unleash-chechen-troops-on-isis-says-regions-president
+17)https://www.rferl.org/a/russia-chechnya-kadyrov-off-facebook-instagram-after-us-sanctions/28934854.html
+18)https://www.washingtonpost.com/news/worldviews/wp/2017/07/15/ramzan-kadyrov-says-there-are-no-gay-men-in-chechnya-and-if-there-are-any-they-should-move-to-canada/
+19)http://www.thenational.ae/lifestyle/fashion/medni-kadyrova-a-presidents-wife-with-designs-on-the-cutting-edge
+20)http://en.news-4-u.ru/daughter-kadyrov-recognized-as-the-most-gifted-child-in-chechnya-will-compete-for-the-title-of-student-of-the-year-2016-2.html
+21)https://www.bbc.com/russian/features-60090017
+22)https://www.themoscowtimes.com/2015/04/23/kadyrov-authorizes-his-police-to-shoot-officers-from-other-parts-of-russia-a46061
+23)http://www.bloodyelbow.com/2016/10/19/13329312/kremlin-rules-against-kadyrov-child-mma-fights-stern-letter-putin-russia-fedor
+24)https://web.archive.org/web/20180305064203/http://www.chechnya.gov.ru/page.php?r=2
+25)http://hrw.org/backgrounder/eca/chechnya1106/
+26)https://en.wikipedia.org/wiki/Vladimir_Volkov_(politician)
+27)https://en.wikipedia.org/wiki/Sergey_Abramov_(politician)
+28)https://www.rferl.org/a/russia-chechnya-kremlin-says-us-kadyrov-sanctions-illegal-vows-response/28930921.html
+29)https://www.rferl.org/a/ingush-activist-detained-over-violence-at-rallies-against-chechnya-border-deal/29939463.html
+30)http://www.newsru.com/russia/05oct2005/kadyrov.html
+31)https://web.archive.org/web/20080506065346/http://www.jamestown.org/chechnya_weekly/article.php?articleid=2372265
+32)https://en.wikipedia.org/wiki/Andrey_Nikitin_(politician)
+33)https://www.unian.net/politics/1319492-putin-vspomnil-kak-kadyirov-s-ottsom-voevali-protiv-rossii.html
+34)https://www.rferl.org/a/russia-kadyrov-instagram-facebook-telecoms-watchdog/28940087.html
+35)https://rbth.com/defence/2016/11/28/special-forces-veterans-from-around-the-world-on-their-way-to-chechnya_651731
+36)https://en.wikipedia.org/wiki/Vasily_Golubev_(politician)
+37)http://www.rferl.org/content/russia-chechnya-kadyrov-opposition-expose/27568698.html
+38)http://en.rian.ru/russia/20101019/161007096.html
+39)https://www.washingtonpost.com/national-security/us-blacklists-strongman-of-chechnya-for-human-rights-abuses/2020/07/20/1a1b2d4a-caa6-11ea-89ce-ac7d5e4a5a38_story.html
+40)https://www.themoscowtimes.com/2017/09/05/after-mass-rally-chechnya-putin-condemns-myanmar-violence-a58851
+41)https://www.nytimes.com/2016/05/25/world/europe/ramzan-kadyrov-chechnya-cat.html?rref=collection%2Ftimestopic%2FKadyrov%2C%20Ramzan%20A.&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=2&pgtype=collection&_r=0
+42)http://www.rferl.org/a/russia-chechnya-whistle-blower-dzhalaldinov-flees/28108246.html
+43)http://www.rferl.org/content/chechnya-kadyrov-islamic-state/27130881.html
+44)https://nytimes.com/2016/10/07/world/europe/chechnya-kadyrov-child-fights.html
+45)https://www.businessinsider.com/politics/news/people-with-covid-19-who-wont-self-isolate-should-be-killed-says-president-of-chechnya/articleshow/74818234.cms
+46)https://web.archive.org/web/20110716054610/http://themoscownews.com/russia/20101020/188139993.html?referfrommn
+47)https://www.thestar.com/news/world/2018/05/19/gunmen-who-raided-church-in-chechnya-killed.html
+48)https://www.telegraph.co.uk/expat/expatnews/6858882/Chechen-president-says-the-West-wants-to-destroy-Russia.html
+49)https://web.archive.org/web/20160623132051/http://en.news-4-u.ru/daughter-kadyrov-recognized-as-the-most-gifted-child-in-chechnya-will-compete-for-the-title-of-student-of-the-year-2016-2.html
+50)https://en.wikipedia.org/wiki/Interventionism_(politics)
+51)https://www.nytimes.com/2009/07/18/world/europe/18chechnya.html
+52)http://themoscownews.com/russia/20101020/188139993.html?referfrommn
+53)http://tass.com/politics/982788
+54)http://english.aawsat.com/2016/11/article55362915/saudi-deputy-crown-prince-receives-president-chechnya
+55)http://chechnya.gov.ru/page.php?r=126&id=589
+56)https://www.hrw.org/news/2020/02/07/thugs-attack-lawyer-journalist-chechnya
+57)https://ghostarchive.org/archive/20220111/https://www.telegraph.co.uk/news/worldnews/europe/russia/8809581/Chechen-warlord-Ramzan-Kadyrov-enjoys-a-quiet-multi-million-pound-birthday.html
+58)https://www.cambridge.org/core/journals/american-political-science-review/article/abs/are-coethnics-more-effective-counterinsurgents-evidence-from-the-second-chechen-war/43EDEABC8618D35813635515C40457F0
+59)https://web.archive.org/web/20130221032845/http://chechnya.gov.ru/page.php?r=2
+60)http://www.ibtimes.co.uk/ramzan-kadyrov-chechen-leader-promises-revenge-isis-after-russian-citizen-beheaded-1531743
+61)https://www.theguardian.com/chechnya/Story/0,,1542119,00.html
+62)https://jalopnik.com/5704390/the-chechen-presidents-guns-supercars-and-3000000-motorcade
+63)http://www.vedomosti.ru/politics/news/2016/02/02/626417-kadirov-instagram-kasyanovim
+64)https://meduza.io/en/news/2020/09/02/ramzan-kadyrov-appoints-daughter-as-chechnya-s-first-deputy-culture-minister
+65)https://www.theguardian.com/world/2012/dec/20/chechnyan-newspaper-shut-down-putin
+66)https://www.nytimes.com/2017/08/17/opinion/chechnya-ramzan-kadyrov-russia.html
+67)http://news.scotsman.com/chechnya/Warlord-named-Chechen-president.3350818.jp
+68)https://www.themoscowtimes.com/2019/11/07/chechnyas-kadyrov-advocates-killing-people-who-insult-honor-online-a68069
+69)https://www.rferl.org/a/russia-winter-olympics-boycott-questions-to-go-or-not-to-go/28901088.html
+70)https://www.independent.co.uk/news/world/europe/chechnya-ramzan-kadyrov-gay-men-eliminate-chechen-leader-detain-torture-end-may-2017-camps-russia-a7700711.html
+71)https://www.telegraph.co.uk/news/2016/05/17/police-surround-entire-village-in-chechnya-in-hunt-for-man-who-d/
+72)https://www.rferl.org/a/u-s-ambassador-slams-egregious-charges-against-journalists-in-russia/30570672.html
+73)http://www.jamestown.org/chechnya_weekly/article.php?articleid=2372265
+74)https://web.archive.org/web/20210409141304/https://meduza.io/en/news/2021/04/09/russian-state-television-channel-deletes-chechen-beauty-pageant-newsreel-featuring-kadyrov-s-second-wife
+75)https://www.nytimes.com/2017/04/21/world/europe/chechnya-russia-attacks-gays.html
+76)http://www.foxnews.com/world/2017/11/27/chechnyas-leader-says-hes-ready-to-resign.html
+77)http://www.4freerussia.org/a-threat-to-national-security-download-the-english-ver/
+78)http://www.ibtimes.co.uk/deadly-anti-lgbt-crisis-unfolding-chechnya-1616551
+79)https://www.theguardian.com/world/2020/apr/21/kremlin-urged-to-protect-russian-journalist-after-alleged-threats-by-chechen-leader-over-coronavirus-report
+80)https://www.nytimes.com/2020/07/09/world/europe/chechnya-russian-murder-vienna.html
+81)https://www.reuters.com/article/us-austria-chechnya-murder-idUSTRE63Q46H20100427
+82)http://en.rian.ru/russia/20091023/156563936.html
+83)http://www.thenational.ae/world/middle-east/president-of-chechnya-praises-saudi-arabia-in-service-of-islam
+84)https://www.huffpost.com/entry/chechen-president-we-dont-have-gays_n_59690d08e4b0d6341fe8ad95
+85)https://en.wikipedia.org/wiki/Aleksandr_Gusev_(politician)
+86)https://www.reuters.com/article/health-coronavirus-russia-chechnya/chechnya-becomes-first-russian-region-to-impose-coronavirus-curfew-idINL8N2BR3KN
+87)https://meduza.io/en/feature/2020/04/16/waiting-on-chechnya-s-justice-system
+88)https://en.wikipedia.org/wiki/Vladimir_Vladimirov_(politician)
+89)https://en.wikipedia.org/wiki/Ramzan_Kadyrov
+90)https://www.independent.co.uk/news/world/europe/hollywood-stars-help-chechnya-leader-to-celebrate-his-birthday-2366140.html
+91)http://www.chicagotribune.com/news/sns-wp-blm-chechnya-comment-6df5bcbe-8c84-11e6-8cdc-4fbb1973b506-20161007-story.html
+92)https://web.archive.org/web/20161126064335/http://chechnya.gov.ru/page.php?r=126&id=589
+93)https://en.wikipedia.org/wiki/Aleksandr_Avdeyev_(politician,_born_1975)
+94)https://web.archive.org/web/20170421194658/https://www.nytimes.com/2017/04/21/world/europe/chechnya-russia-attacks-gays.html
+95)http://www.rferl.org/a/chechnya-kadyriv-social-worker-tv/27443034.html
+96)https://www.occrp.org/en/investigations/how-a-representative-of-a-top-chechen-leader-solved-russian-business-disputes-and-walked-away-with-millions
+97)https://www.theguardian.com/world/2016/feb/23/chechen-leader-ramzan-kadyrov-threatens-whole-of-russia-opposition-warns
+98)https://meduza.io/en/news/2021/04/09/russian-state-television-channel-deletes-chechen-beauty-pageant-newsreel-featuring-kadyrov-s-second-wife
+99)https://en.wikipedia.org/wiki/Category:21st-century_Russian_politicians
+100)https://www.businessinsider.com/imran-aliev-suspect-fled-russia-link-kadyrov-police-2020-2

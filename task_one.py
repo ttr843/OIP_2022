@@ -54,7 +54,7 @@ with open(index_file_path, write_mode) as index_file:
         name = output_documents_path + str(file_index) + '.html'
         try:
             urllib.request.urlretrieve(url, name)
-            result_string = 'url: ' + url.replace("\n", "") + ',' 'number of document: ' + str(file_index) + '\n'
+            result_string = str(file_index) + ')' + url.replace("\n", "") + '\n'
             index_file.write(result_string)
             if file_index == 100:
                 index_file.close()
