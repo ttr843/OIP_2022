@@ -4,6 +4,7 @@ repository for OIP course(paired with Sergey Ryzhakov)
 
 * [Task one](#task-one)
 * [Task two](#task-two)
+* [Task three](#task-three)
 
 
 ## Task one
@@ -17,4 +18,9 @@ repository for OIP course(paired with Sergey Ryzhakov)
 * task_two.py containts code of token,lemma creator
 * output/task_two contains lemmas and tokens files
 
+
+## Task three
+
+* task_three.py containts code
+* output/task_three contains output files 
 
