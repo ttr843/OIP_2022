@@ -6,6 +6,7 @@ repository for OIP course(paired with Sergey Ryzhakov)
 * [Task two](#task-two)
 * [Task three](#task-three)
 * [Task four](#task-four)
+* [Task five](#task-five)
 
 
 ## Task one
@@ -29,4 +30,8 @@ repository for OIP course(paired with Sergey Ryzhakov)
 
 * task_four.py contains code
 * output/task_four_lemmas and output/task_four_term contains output files
+
+## Task five
+
+* task_five.py contains code
 
