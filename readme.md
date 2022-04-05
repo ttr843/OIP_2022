@@ -34,4 +34,6 @@ repository for OIP course(paired with Sergey Ryzhakov)
 ## Task five
 
 * task_five.py contains code
+* web-morda application front
+* application.py backend
 
